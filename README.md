@@ -12,7 +12,7 @@ The challenge focuses on HTML and CSS to create a visually appealing layout whil
 
 ## Demo
 
-You can view the live demo of my solution here: [**Social Proof Section Demo**]()
+You can view the live demo of my solution here: [**Social Proof Section Demo**](https://social-proof-section-2lqe9g3iq-nauzzz.vercel.app/)
 
 ## Technologies Used
 
